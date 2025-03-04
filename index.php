@@ -39,7 +39,7 @@
         <div class="page-content">Instructions Here</div>
         <br />
         <!-- Numeric Textfield with Floating Label -->
-        <form action="#">
+        <form action="answer.php" method="GET">
           <div
             class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label"
           >
